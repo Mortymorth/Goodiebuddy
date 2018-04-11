@@ -1,0 +1,15 @@
+{
+  "name": "goodiebuddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morten",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3",
+    "unexpected": "^10.37.4"
+  }
+}
